@@ -1,0 +1,1 @@
+Aqui irei escrever algumas anotações sobre o Git e o GitHub.
